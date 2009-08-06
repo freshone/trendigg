@@ -1,0 +1,13 @@
+Twitter Trending Topics Crossref with Digg
+
+The idea of this little app is to take the current trending topics on Twitter
+and run a search for each on Digg. In theory the result provides the user
+deeper info about whatever Twitter is buzzing about at the moment.
+
+The output is simple HTML.  Each topic is printed, and then a listing of the
+Digg article topics is printed with a link to each story.  Simple.
+
+
+Written By: 	Jeremy D. McCarthy
+Date:			2009/08/06
+
